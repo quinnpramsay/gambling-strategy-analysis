@@ -22,5 +22,14 @@ Now assuming we are dealing with a double 0 roulette board, here are all the sep
 - Corner bet (betting on a block of four numbers): 4 in 38 chance (10.5%) / 8 to 1 payout
 - Line bet (betting on two adjacent rows – six numbers): 6 in 38 chance (15.8%) / 5 to 1 payout
 
+# Roulette: First Step
+
+First thing I did witht the roulette analysis was build my own roulette game program to get a feel of how it works and how it could be applied to a strategy. The code in provided within this github repository. I wanted to test out how this would work and how the outcomes would be and trends would be not only on a large scale but also playing the game spin by spin myself. Obviously as I didn't understand any of the strategy's or the game yet, I lost. 
+
+# Roulette: Martingale Strategy
+
+
+
+
 
 
